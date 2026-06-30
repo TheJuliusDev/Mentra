@@ -1,0 +1,6 @@
+{
+  "name": "Mentra",
+  "description": "The official website for Mentra, an AI-powered developer companion helping people learn technology, practice coding, solve programming problems, and stay motivated.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
